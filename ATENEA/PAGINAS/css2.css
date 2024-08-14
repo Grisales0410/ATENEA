@@ -1,0 +1,11 @@
+img {
+    border: solid 30px pink;
+    position: relative;
+    top: -50px;
+    z-index: 0;
+}
+
+p{
+    position: relative;
+    z-index: 2;
+}

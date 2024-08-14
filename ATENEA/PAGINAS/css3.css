@@ -1,0 +1,28 @@
+section {
+    border: 6px solid lightblue;
+    width: 100%;
+    float: left;
+}
+
+section > img { 
+    float: right;
+}
+
+section.products {
+    width: 100%;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.container img {
+    width: 12%;
+}

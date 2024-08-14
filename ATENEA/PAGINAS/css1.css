@@ -1,0 +1,10 @@
+body {
+    position: relative;
+}
+
+img {
+   border-radius: 50%;
+   width: 30%;
+   position: absolute;
+   left: 35vw;
+}
